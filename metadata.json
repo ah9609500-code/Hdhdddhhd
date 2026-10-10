@@ -1,0 +1,6 @@
+{
+  "name": "صيدلية الحود المركزية | Al-Houd Central Pharmacy",
+  "description": "تطبيق صيدلية الحود المركزية - إدارة الصيدلية، المتجر الإلكتروني، والمجتمع التفاعلي للأدوية والاستشارات في العراق.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
